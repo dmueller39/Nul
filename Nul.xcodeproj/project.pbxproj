@@ -44,6 +44,7 @@
 		2195A50F2D8AEB8100862F4A /* NulUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NulUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2195A5132D8AEB8100862F4A /* NulUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NulUITests.swift; sourceTree = "<group>"; };
 		2195A5152D8AEB8100862F4A /* NulUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NulUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		21A7E0B92D8B586F00A733E6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +95,7 @@
 		2195A4F72D8AEB7F00862F4A /* Nul */ = {
 			isa = PBXGroup;
 			children = (
+				21A7E0B92D8B586F00A733E6 /* Info.plist */,
 				2195A4F82D8AEB7F00862F4A /* NulApp.swift */,
 				2195A4FA2D8AEB7F00862F4A /* ContentView.swift */,
 				2195A4FC2D8AEB8100862F4A /* Assets.xcassets */,
@@ -420,6 +422,7 @@
 				DEVELOPMENT_TEAM = NF8KPUS6K2;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Nul/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -449,6 +452,7 @@
 				DEVELOPMENT_TEAM = NF8KPUS6K2;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Nul/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
